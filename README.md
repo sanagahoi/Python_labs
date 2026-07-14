@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Graded-Project-1_Python-for-DS
 
 Context:
@@ -22,3 +23,8 @@ Building a Linear regression model to predict the tip amount based on different 
 =======
 
 >>>>>>> rmote-repo/main
+=======
+# NEW_REPO
+
+Fun with Sentiment Analysis
+>>>>>>> repo-remote/main
