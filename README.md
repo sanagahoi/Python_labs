@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Graded-Project-1_Python-for-DS
 
 Context:
@@ -18,3 +19,6 @@ Exploratory data analysis and data preprocessing.
 
 Building a Linear regression model to predict the tip amount based on different input features.
 >>>>>>> repo-remote/main
+=======
+
+>>>>>>> rmote-repo/main
