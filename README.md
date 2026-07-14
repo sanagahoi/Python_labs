@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Graded-Project-1_Python-for-DS
 
 Context:
@@ -28,3 +29,7 @@ Building a Linear regression model to predict the tip amount based on different 
 
 Fun with Sentiment Analysis
 >>>>>>> repo-remote/main
+=======
+# cisco-labs
+data science practical labs
+>>>>>>> repo-cisco/main
