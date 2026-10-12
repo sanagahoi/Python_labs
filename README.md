@@ -2,7 +2,7 @@
 
 This repository contains a collection of Python-based data science exercises, notebooks, and mini-projects focused on learning core concepts such as data analysis, visualization, regression, clustering, classification, and basic natural language processing.
 
-## Overview
+## List of practicals
 
 The repository includes hands-on practice materials for:
 - Data cleaning and preprocessing
